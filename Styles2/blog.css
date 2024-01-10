@@ -1,6 +1,57 @@
-div{
-    color: blueviolet;
+.st{
+    background-color: aqua;
+    margin: 10px;
+    padding: 20px;
+    position: center;
+}
+.nd{
     background-color: red;
     margin: 10px;
     padding: 20px;
+    position: center;
+}
+.rd{
+    background-color: blueviolet;
+    margin: 10px;
+    padding: 20px;
+    position: center;
+}
+.th{
+    background-color: burlywood;
+    margin: 10px;
+    padding: 20px;
+    position: center;
+}
+.thh{
+    background-color: chartreuse;
+    margin: 10px;
+    padding: 20px;
+    position: center;
+}
+.thhh{
+    background-color: cornflowerblue;
+    margin: 10px;
+    padding: 20px;
+    position: center;
+}
+.thhhh{
+    background-color: darkolivegreen;
+    margin: 10px;
+    padding: 20px;
+    position: center;
+}
+h3{
+    font-size: 40px;
+}
+.tec{
+    margin-left: 600px;
+    position: center;
+
+}
+p{
+    color:white;
+    position:center;
+}
+*{
+    border-radius: 10px;
 }
